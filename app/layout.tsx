@@ -8,7 +8,7 @@ import { MessageCircle, PenLine, BarChart } from "lucide-react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "TradeHive | College Trading Platform",
+  title: "TradeHive | College Trading Platform Hacklytics 2025",
   description: "A collaborative platform for college students to trade, learn, and grow together",
     generator: 'v0.dev'
 }
